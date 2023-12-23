@@ -1,1 +1,2 @@
-# Mini_Project_Burn_Smart
+# Mini_Project
+## Burn_Smart
